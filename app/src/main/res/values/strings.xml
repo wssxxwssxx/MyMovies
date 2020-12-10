@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyMoves</string>
+    <string name="poster_movie">Постер к фильму</string>
+    <string name="popular">Самые популярные</string>
+    <string name="reyting">Наиболее Рейтинговые</string>
+    <string name="Name">Название:</string>
+    <string name="p">Постер</string>
+    <string name="add_to_favorite">Добавленно в избранное</string>
+    <string name="delete_to_favorite">Удаленно из избранного</string>
+    <string name="Glavnoe">Главное</string>
+    <string name="favor">Избранное</string>
+    <string name="play">Запустить трейлер</string>
+</resources>
